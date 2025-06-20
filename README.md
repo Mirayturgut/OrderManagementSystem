@@ -66,13 +66,6 @@ OrderManagementSystem/
 
 ---
 
-## 📷 Ekran Görüntüsü
-
-![Sipariş Yönetim Sistemi](https://github.com/Mirayturgut/Sipariş-Yönetim-Sistemi/blob/main/images/ekran-goruntusu.png?raw=true)
-
-
----
-
 ## ✍️ Geliştirici
 
 **Miray Turgut**  
